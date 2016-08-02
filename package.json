@@ -1,0 +1,16 @@
+{
+  "name": "betting-on-node",
+  "version": "1.0.0",
+  "description": "a simple betting game",
+  "main": "game.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "prompt-sync": "^4.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jackie lang",
+  "license": "ISC"
+}
